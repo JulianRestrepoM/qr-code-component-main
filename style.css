@@ -4,8 +4,8 @@ body {
 
 .mainSpace {
     background-color: hsl(0, 0%, 100%);
-    width: 17%;
-    height: 51%;
+    width: 320px;
+    height: 500px;
     padding: 1%;
     position: fixed;
     top: 50%;
